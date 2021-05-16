@@ -31,3 +31,6 @@ export { useSyncedRef } from './useSyncedRef';
 // SideEffect
 export { useLocalStorageValue } from './useLocalStorageValue';
 export { useSessionStorageValue } from './useSessionStorageValue';
+
+// Dom
+export { useTitle, IUseTitleOptions } from './useTitle';
